@@ -1,0 +1,39 @@
+# Power BI
+*.pbix.tmp
+*.pbix.bak
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Files
+~$*
+*.tmp
+*.temp
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python (if you have any scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+
+# R (if you have any R scripts)
+.Rhistory
+.RData
+.Rproj.user/
+
+# Logs
+*.log
+logs/
